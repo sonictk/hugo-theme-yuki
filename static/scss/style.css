@@ -370,7 +370,7 @@ h1, h2, h3, h4 {
     font-weight: bold; }
     .main-content h1::before, .main-content h2::before, .main-content h3::before, .main-content h4::before, .main-content h5::before, .main-content h6::before {
       position: absolute;
-      content: "#";
+      content: "";
       color: #b38d19;
       font-weight: normal;
       transform: translateX(-25px); }
