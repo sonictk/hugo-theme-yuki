@@ -85,7 +85,7 @@ h1, h2, h3, h4 {
 .site-logo__wrap {
   position: relative;
   width: 100vw;
-  padding: 7vmin 0;
+  padding: 3vmin 0;
   background-color: #ffffff; }
   @media screen and (max-width: 800px) {
     .site-logo__wrap {
@@ -130,7 +130,7 @@ h1, h2, h3, h4 {
     height: 4vh;
     line-height: 4vh;
     color: #111111;
-    font-size: .8rem; }
+    font-size: .9rem; }
     .site-nav .site-nav__el:hover {
       opacity: 0.6;
       transition: opacity 0.2s ease; }
@@ -634,7 +634,7 @@ h1, h2, h3, h4 {
 
 .copyright {
   padding: 2.5vh 0;
-  font-size: .6rem;
+  font-size: .8em;
   color: #bbbbbb; }
   .copyright a {
     color: #bbbbbb; }
