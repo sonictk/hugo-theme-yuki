@@ -513,8 +513,6 @@ h1, h2, h3, h4 {
     .main-profile .main-profile__description p {
       height: inherit;
       display: block;
-      overflow: hidden;
-      white-space: nowrap;
       text-overflow: ellipsis; }
 
 .main-line {
